@@ -1,4 +1,4 @@
-# [" Lifestyle" Website [ECOMMERCE](shorturl.at/glDQX)
+# " Lifestyle" Website [ECOMMERCE](shorturl.at/glDQX)
 
 Project Link : shorturl.at/glDQX
 
