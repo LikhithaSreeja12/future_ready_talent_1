@@ -1,6 +1,6 @@
 # ["Level-Up Lifestyle" Website using Microsoft Azure Technologies](shorturl.at/glDQX)
 
-Project Link : shorturl.at/glDQX
+Project Link : https:shorturl.at/glDQX
 
 Demo Video : https://drive.google.com/file/d/1mJabtKXD7nREbRd86zTblNutsdNNERTP/view?usp=share_link
 
